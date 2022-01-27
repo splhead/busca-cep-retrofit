@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWsClientRetrofit</string>
+    <string name="tvSearchCEP">Buscar CEP</string>
+</resources>
